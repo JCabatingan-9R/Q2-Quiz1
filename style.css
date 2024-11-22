@@ -1,0 +1,67 @@
+body {
+	font-family: Roboto Condensed;
+	justify-content: center;
+	background-color: beige;
+}
+
+h1 {
+	justify-content: center;
+	text-align: center;
+	padding: 10px;
+}
+
+thead {
+	text-align: center;
+}
+
+.pics {
+	width: 35%;
+}
+
+.timeline {
+	width: 30%;
+}
+
+.accomplishments {
+	width: 35%;
+}
+
+td {
+	vertical-align: middle;
+}
+
+img {
+	width: 50%;
+}
+
+img:hover {
+	animation: bounce;
+	animation-duration: 1s;
+}
+
+.name {
+	text-align: center;
+}
+
+.image {
+	padding-top: 3%;
+}
+
+a {
+	text-decoration: none;
+	color: beige;
+}
+
+p {
+	width:90%
+}
+
+.footer {
+	background-color: black;
+	text-align: center;
+	padding: 20px;
+}
+
+.footer:hover {
+	background-color: darkgrey;
+}
